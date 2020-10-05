@@ -38,9 +38,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mohammad-ali-ebrahimzadeh-b10520163/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/ali1222ez/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="ali1995ez@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/mohammad-ali-ebrahimzadeh-b10520163/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohammad%20Ali%20Ebrahimzadeh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/ali1222ez/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ali1222ez-blue?style=flat-square&logo=instagram"></a>
+<a href="ali1995ez@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ali1995ez@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/m-a-e-z)
+⭐️ From [m-a-e-z](https://github.com/m-a-e-z)
