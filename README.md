@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Mathematics at University of Birjand.
 - 💼 &nbsp; Working as a Front-end Developer in AEC.
-- 🌱 &nbsp; Learning more about Artificial Intelligence.
+- 🌱 &nbsp; Learning more about React js.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
