@@ -6,6 +6,7 @@
 - 🎓 &nbsp; Studying Computer Science and Mathematics at University of Birjand.
 - 💼 &nbsp; Working as a Front-end Developer in AEC.
 - 🌱 &nbsp; Learning more about React js.
+- ⚯ &nbsp;  Open for remote Job.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
